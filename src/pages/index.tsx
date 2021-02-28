@@ -5,6 +5,8 @@ import { Profile } from "../components/Profile";
 import Head from 'next/head'
 
 import styles from '../styles/pages/Home.module.css'
+import React from "react";
+import { ChallengeBox } from "../components/ChallengeBox";
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -18,7 +20,9 @@ export default function Home() {
          <CompletedChallenges />
          <Countdown />
        </div>
-       <div></div>
+       <div>
+         <ChallengeBox />
+       </div>
      </section>
    </div>
   )
