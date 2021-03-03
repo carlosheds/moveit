@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Utilize a técnica de pomodora com uma pitada de desafios  mais, ganhe experiência ao completar os desafios  e suba de nível.
+> Utilize a técnica de pomodoro com uma pitada de desafios a mais, ganhe experiência ao completar os desafios e suba de nível.
 
 ### 🏠 [Homepage](https://moveit-jil8hwcyu-carlosheds.vercel.app/)
 
