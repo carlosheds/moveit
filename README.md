@@ -4,6 +4,7 @@
 </p>
 
 > Utilize a técnica de pomodoro com uma pitada de desafios a mais, ganhe experiência ao completar os desafios e suba de nível.
+![Sem título](https://user-images.githubusercontent.com/70095658/109815666-a71cc900-7c0e-11eb-9f9a-d10a5a6b9562.jpg)
 
 ### 🏠 [Homepage](https://moveit-jil8hwcyu-carlosheds.vercel.app/)
 
